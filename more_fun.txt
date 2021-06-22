@@ -1183,3 +1183,11 @@ RAW Paste Data
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 o2o.api.xiaomi.com
+
+127.0.0.1 rewards.brave.com
+127.0.0.1 api.rewards.brave.com
+127.0.0.1 grant.rewards.brave.com
+127.0.0.1 variations.brave.com
+127.0.0.1 laptop-updates.brave.com
+127.0.0.1 static1.brave.com
+127.0.0.1 brave-core-ext.s3.brave.com
