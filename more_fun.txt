@@ -1312,125 +1312,122 @@ RAW Paste Data
 0.0.0.0 api.vip.miui.com
 0.0.0.0 contactapi.micloud.xiaomi.net
 # 0.0.0.0 api.ad.xiaomi.com #duplicate
-# 0.0.0.0miui.com
+# 0.0.0.0 miui.com
 0.0.0.0220.181.47.186
 0.0.0.0sec-cdn.static.xiaomi.net
-# 0.0.0.0data.mistat.xiaomi.com #duplicate
-# 0.0.0.0xiaomi.com
-0.0.0.0micloud.xiaomi.net
-0.0.0.042.62.94.93
-0.0.0.0resolver.gslb.mi-idc.com
+# 0.0.0.0 data.mistat.xiaomi.com #duplicate
+# 0.0.0.0 xiaomi.com
+0.0.0.0 micloud.xiaomi.net
+0.0.0.0 42.62.94.93
+0.0.0.0 resolver.gslb.mi-idc.com
 
-0.0.0.0app.market.xiaomi.com
-0.0.0.042.62.94.127
+0.0.0.0 app.market.xiaomi.com
+0.0.0.0 42.62.94.127
 
-0.0.0.0api.account.xiaomi.com
-0.0.0.0wifiapi.micloud.xiaomi.net
-0.0.0.042.62.94.152
-0.0.0.0114.54.23.44
-0.0.0.0connect.rom.miui.com
-0.0.0.0120.134.33.89
-# 0.0.0.0sdkconfig.ad.xiaomi.com #duplicate
+0.0.0.0 api.account.xiaomi.com
+0.0.0.0 wifiapi.micloud.xiaomi.net
+0.0.0.0 42.62.94.152
+0.0.0.0 114.54.23.44
+0.0.0.0 connect.rom.miui.com
+0.0.0.0 120.134.33.89
 0.0.0.0223.202.68.93
-# 0.0.0.0market.xiaomi.com
-0.0.0.0114.54.23.8
-# 0.0.0.0miui.net
+0.0.0.0 114.54.23.8
 0.0.0.0114.54.23.5
 ##### MiTV: chinese apps upgrade
 0.0.0.0 package.box.xiaomi.com
-0.0.0.0image.box.xiaomi.com
-0.0.0.0file.market.xiaomi.com
+0.0.0.0 image.box.xiaomi.com
+0.0.0.0 file.market.xiaomi.com
 ##### MiTV: chinese apps upgrade additional
-0.0.0.0image.cdn.pandora.xiaomi.com
-0.0.0.0package.cdn.box.xiaomi.com
-0.0.0.0package.cdn.pandora.xiaomi.com
-0.0.0.0media.ptmi.gitv.tv
-0.0.0.0user.ptmi.gitv.tv
-0.0.0.0user.v2.t001.ottcn.com
-0.0.0.0media.v2.t001.ottcn.com
+0.0.0.0 image.cdn.pandora.xiaomi.com
+0.0.0.0 package.cdn.box.xiaomi.com
+0.0.0.0 package.cdn.pandora.xiaomi.com
+0.0.0.0 media.ptmi.gitv.tv
+0.0.0.0 user.ptmi.gitv.tv
+0.0.0.0 user.v2.t001.ottcn.com
+0.0.0.0 media.v2.t001.ottcn.com
 ##### MiTV: App Store upgrade
-0.0.0.0appstore.ptmi.gitv.tv
-0.0.0.0appstore.pandora.xiaomi.com
-0.0.0.0appstore.cdn.pandora.xiaomi.com
+0.0.0.0 appstore.ptmi.gitv.tv
+0.0.0.0 appstore.pandora.xiaomi.com
+0.0.0.0 appstore.cdn.pandora.xiaomi.com
 ##### MiTV: status bar notifications 1
-0.0.0.0resolver.msg.xiaomi.net
-0.0.0.0hub5pn.wap.ptxl.gitv.tv
-0.0.0.0o2o.api.xiaomi.com
+0.0.0.0 resolver.msg.xiaomi.net
+0.0.0.0 hub5pn.wap.ptxl.gitv.tv
+0.0.0.0 o2o.api.xiaomi.com
 ##### MiTV: status bar notifications 2
-0.0.0.0gamecenter.ptmi.gitv.tv
-0.0.0.0stat.pandora.xiaomi.com
-0.0.0.0data.mistat.xiaomi.com
+0.0.0.0 gamecenter.ptmi.gitv.tv
+0.0.0.0 stat.pandora.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
 ##### MiTV: status bar notifications 3
-0.0.0.0assistant.pandora.xiaomi.com
-0.0.0.0auth.api.gitv.tv
-0.0.0.0data.hpplay.com.cn
-0.0.0.0leboapi.hpplay.com.cn
-0.0.0.0www.hpplay.com.cn
-0.0.0.0gallery.p2p.pandora.xiaomi.com
+0.0.0.0 assistant.pandora.xiaomi.com
+0.0.0.0 auth.api.gitv.tv
+0.0.0.0 data.hpplay.com.cn
+0.0.0.0 leboapi.hpplay.com.cn
+0.0.0.0 www.hpplay.com.cn
+0.0.0.0 gallery.p2p.pandora.xiaomi.com
 ##### MiTV: firmware upgrade!
-0.0.0.0upgrade.ptmi.gitv.tv
+0.0.0.0 upgrade.ptmi.gitv.tv
 ##### MiTV: misc (thanks dim0xff)
-0.0.0.0api.apptentive.com
-0.0.0.0ar.tns-counter.ru
-0.0.0.0bss.pandora.xiaomi.com
-0.0.0.0cdn.fds-ssl.api.xiaomi.com
-0.0.0.0e.crashlytics.com
-0.0.0.0feedback.assistant.duokanbox.com
-0.0.0.0fota.advmob.cn
-0.0.0.0milink.pandora.xiaomi.com
-0.0.0.0mishop.cdn.pandora.xiaomi.com
-0.0.0.0stat.duokanbox.com
-# 0.0.0.0tracking.miui.com #duplicate
-0.0.0.0v.admaster.com.cn
-0.0.0.0bolt.cntv.duokanbox.com
-0.0.0.0cntv.duokanbox.com
-0.0.0.0media.cntv.duokanbox.com
-0.0.0.0user.cntv.duokanbox.com
-0.0.0.0misc.cntv.duokanbox.com
-0.0.0.0recsys.cntv.duokanbox.com
-0.0.0.0upgrade.duokanbox.com
-0.0.0.0scraper.duokanbox.com
-0.0.0.0media.t001.ottcn.com
-0.0.0.0bolt.t001.ottcn.com
-0.0.0.0recsys.t001.ottcn.com
-0.0.0.0user.t001.ottcn.com
-0.0.0.0misc.t001.ottcn.com
-0.0.0.0user.ptmi.gitv.tv
-0.0.0.0media.ptmi.gitv.tv
-0.0.0.0bolt.ptmi.gitv.tv
-0.0.0.0recsys.ptmi.gitv.tv
-0.0.0.0misc.ptmi.gitv.tv
-0.0.0.0user.v2.t001.ottcn.com
-0.0.0.0media.v2.t001.ottcn.com
-0.0.0.0bolt.v2.t001.ottcn.com
-0.0.0.0recsys.v2.t001.ottcn.com
-0.0.0.0misc.v2.t001.ottcn.com
-0.0.0.0market.xiaomi.com
-0.0.0.0api.ad.xiaomi.com
-0.0.0.0notice.game.xiaomi.com
-0.0.0.0api.miui.security.xiaomi.com
-0.0.0.0wifiapi.micloud.xiaomi.net
-0.0.0.0miui.com
-0.0.0.0pdc.micloud.xiaomi.net
-0.0.0.0game.xiaomi.com
-0.0.0.0micloud.xiaomi.net
-0.0.0.0sec-cdn.static.xiaomi.net
-0.0.0.0app.chat.xiaomi.net
-0.0.0.0xiaomi.net
-0.0.0.0xiaomi.com
-0.0.0.0contactapi.micloud.xiaomi.net
-0.0.0.0data.mistat.xiaomi.com
-0.0.0.0api.vip.miui.com
-0.0.0.0connect.rom.miui.com
-0.0.0.0app.market.xiaomi.com
-0.0.0.0account.xiaomi.com
-0.0.0.0miui.net
-0.0.0.0api.account.xiaomi.com
-0.0.0.0video.xiaomi.com
-0.0.0.0app.market.xiaomi.com
-0.0.0.0image.cdn.mvideo.xiaomi.com
-0.0.0.0api.tw06.xlmc.sec.miui.com
-0.0.0.0migrate.driveapi.micloud.xiaomi.net
+0.0.0.0 api.apptentive.com
+0.0.0.0 ar.tns-counter.ru
+0.0.0.0 bss.pandora.xiaomi.com
+0.0.0.0 cdn.fds-ssl.api.xiaomi.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 feedback.assistant.duokanbox.com
+0.0.0.0 fota.advmob.cn
+0.0.0.0 milink.pandora.xiaomi.com
+0.0.0.0 mishop.cdn.pandora.xiaomi.com
+0.0.0.0 stat.duokanbox.com
+# 0.0.0.0 tracking.miui.com #duplicate
+0.0.0.0 v.admaster.com.cn
+0.0.0.0 bolt.cntv.duokanbox.com
+0.0.0.0 cntv.duokanbox.com
+0.0.0.0 media.cntv.duokanbox.com
+0.0.0.0 user.cntv.duokanbox.com
+0.0.0.0 misc.cntv.duokanbox.com
+0.0.0.0 recsys.cntv.duokanbox.com
+0.0.0.0 upgrade.duokanbox.com
+0.0.0.0 scraper.duokanbox.com
+0.0.0.0 media.t001.ottcn.com
+0.0.0.0 bolt.t001.ottcn.com
+0.0.0.0 recsys.t001.ottcn.com
+0.0.0.0 user.t001.ottcn.com
+0.0.0.0 misc.t001.ottcn.com
+0.0.0.0 user.ptmi.gitv.tv
+0.0.0.0 media.ptmi.gitv.tv
+0.0.0.0 bolt.ptmi.gitv.tv
+0.0.0.0 recsys.ptmi.gitv.tv
+0.0.0.0 misc.ptmi.gitv.tv
+0.0.0.0 user.v2.t001.ottcn.com
+0.0.0.0 media.v2.t001.ottcn.com
+0.0.0.0 bolt.v2.t001.ottcn.com
+0.0.0.0 recsys.v2.t001.ottcn.com
+0.0.0.0 misc.v2.t001.ottcn.com
+0.0.0.0 market.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 notice.game.xiaomi.com
+0.0.0.0 api.miui.security.xiaomi.com
+0.0.0.0 wifiapi.micloud.xiaomi.net
+0.0.0.0 miui.com
+0.0.0.0 pdc.micloud.xiaomi.net
+0.0.0.0 game.xiaomi.com
+0.0.0.0 micloud.xiaomi.net
+0.0.0.0 sec-cdn.static.xiaomi.net
+0.0.0.0 app.chat.xiaomi.net
+0.0.0.0 xiaomi.net
+0.0.0.0 xiaomi.com
+0.0.0.0 contactapi.micloud.xiaomi.net
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 api.vip.miui.com
+0.0.0.0 connect.rom.miui.com
+0.0.0.0 app.market.xiaomi.com
+0.0.0.0 account.xiaomi.com
+0.0.0.0 miui.net
+0.0.0.0 api.account.xiaomi.com
+0.0.0.0 video.xiaomi.com
+0.0.0.0 app.market.xiaomi.com
+0.0.0.0 image.cdn.mvideo.xiaomi.com
+0.0.0.0 api.tw06.xlmc.sec.miui.com
+0.0.0.0 migrate.driveapi.micloud.xiaomi.net
 0.0.0.0pdc.micloud.xiaomi.net
 0.0.0.0bss.pandora.xiaomi.com
 0.0.0.0info.sec.miui.com
@@ -1520,58 +1517,6 @@ RAW Paste Data
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 www.api.ad.intl.xiaomi.com
 0.0.0.0 sgp.o2o.api.xiaomi.com
-0.0.0.0wifiapi.micloud.xiaomi.net
-0.0.0.0us.wifiapi.micloud.xiaomi.net
-0.0.0.0gallerysearchapi.micloud.xiaomi.net
-0.0.0.0us.gallerysearchapi.micloud.xiaomi.net
-0.0.0.0i.mi.com
-0.0.0.0us.i.mi.com
-0.0.0.0findapi.micloud.xiaomi.net
-0.0.0.0us.findapi.micloud.xiaomi.net
-0.0.0.0micardapi.micloud.xiaomi.net
-0.0.0.0us.micardapi.micloud.xiaomi.net
-0.0.0.0pdc.micloud.xiaomi.net
-0.0.0.0us.pdc.micloud.xiaomi.net
-0.0.0.0statusapi.micloud.xiaomi.net
-0.0.0.0us.statusapi.micloud.xiaomi.net
-0.0.0.0musicapi.micloud.xiaomi.net
-0.0.0.0us.musicapi.micloud.xiaomi.net
-0.0.0.0fileapi.micloud.xiaomi.net
-0.0.0.0us.fileapi.micloud.xiaomi.net
-0.0.0.0smsapi.micloud.xiaomi.net
-0.0.0.0us.smsapi.micloud.xiaomi.net
-0.0.0.0noteapi.micloud.xiaomi.net
-0.0.0.0us.noteapi.micloud.xiaomi.net
-0.0.0.0galleryapi.micloud.xiaomi.net
-0.0.0.0us.galleryapi.micloud.xiaomi.net
-0.0.0.0contactapi.micloud.xiaomi.net
-0.0.0.0us.contactapi.micloud.xiaomi.net
-0.0.0.0phonecallapi.micloud.xiaomi.net
-0.0.0.0us.phonecallapi.micloud.xiaomi.net
-0.0.0.0sfsapi.micloud.xiaomi.net
-0.0.0.0us.sfsapi.micloud.xiaomi.net
-0.0.0.0find.api.micloud.xiaomi.net
-0.0.0.0us.find.api.micloud.xiaomi.net
-0.0.0.0browserapi.micloud.xiaomi.net
-0.0.0.0us.browserapi.micloud.xiaomi.net
-0.0.0.0galleryfaceapi.micloud.xiaomi.net
-0.0.0.0us.galleryfaceapi.micloud.xiaomi.net
-0.0.0.0appbackupapi.micloud.xiaomi.net
-0.0.0.0us.appbackupapi.micloud.xiaomi.net
-0.0.0.0app.chat.global.xiaomi.net
-0.0.0.0resolver.msg.global.xiaomi.net
-0.0.0.0api.sec.intl.miui.com
-0.0.0.0account.preview.n.xiaomi.net
-0.0.0.0api.miui.security.xiaomi.com
-0.0.0.0pic.kts.g.mi.com/
-0.0.0.0sec-cdn.static.xiaomi.net
-0.0.0.0staging.adv.sec.miui.com
-0.0.0.0staging.api.sec.miui.com
-0.0.0.0staging.miuisystem.n.xiaomi.com
-0.0.0.0t1.g.mi.com
-0.0.0.0test-idservice.data.mistat.xiaomi.com
-0.0.0.0test.data.mistat.xiaomi.srv
-0.0.0.0video.kts.g.mi.com
 0.0.0.0 www.cmpassport.com
 0.0.0.0 wx.10086.cn
 0.0.0.0 a0.app.xiaomi.com
