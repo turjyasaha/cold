@@ -1,6 +1,6 @@
 qcc.qualcomm.com	
 www.izatcloud.net	
-* .io.mi.com	
+*.io.mi.com	
 *.api.io.mi.com	
 *.app.chat.global.xiaomi.net	
 *.chat.global.xiaomi.net	
@@ -32,8 +32,8 @@ www.izatcloud.net
 *.xiaomi.net	
 *miui.com	
 *xiaomi.com	
-0.0.0.0	update.avlyun.sec.miui.com
-0.0.0.0	logupdate.avlyun.sec.miui.com
+update.avlyun.sec.miui.com
+logupdate.avlyun.sec.miui.com
 10.235.124.13	
 10.99.168.145	
 10.99.184.96	
