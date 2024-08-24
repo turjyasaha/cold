@@ -11,6 +11,7 @@
 *.global.xiaomi.net
 *.i2-idm.api.io.mi.com
 *.idm.iot.mi.com
+**.iot.mi.com
 *.idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com
 *.idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
 *.idmb-app-chat-global-xiaomi02-1415306822.ap-south-1.elb.amazonaws.com
